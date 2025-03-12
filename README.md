@@ -9,3 +9,7 @@ Streamlit-based ML web application
 1. import py and requirement.txt file
 2. First, install all the requirements and then run py file
 3. Command [ streamlit run streamlitRFC.ipynb ]
+
+# SS of the final prediction page
+![image](https://github.com/user-attachments/assets/651d2466-e9ef-4d37-8fec-5f92932f2823)
+
