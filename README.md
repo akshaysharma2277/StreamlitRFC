@@ -6,6 +6,6 @@ Streamlit-based ML web application
 3. Predicts the species of the Iris flower based on the user’s input.
 
 # How to import and Run in your system
-1. import ipynb and requirement.txt file
-2. First install all the requiremets and the run ipynb filr
+1. import py and requirement.txt file
+2. First install all the requiremets and the run py filr
 3. Command [ streamlit run streamlitRFC.ipynb ]
