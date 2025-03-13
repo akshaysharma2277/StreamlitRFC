@@ -2,8 +2,9 @@
 ML Application predicting species based on features entered 
 
 1. Uses Scikit-Learn's Iris dataset to train a RandomForestClassifier.
-2. Provides a web-based UI where users can adjust feature values using sliders.
-3. Predict the species of the Iris flower based on the user’s input.
+2. Random Forest Classifier model used for prediction.
+3. Provides a web-based UI where users can adjust feature values using sliders.
+4. Predict the species of the Iris flower based on the user’s input.
 
 # How to import and Run in your system
 1. import py and requirement.txt file
