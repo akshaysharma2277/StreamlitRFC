@@ -1,5 +1,5 @@
 # StreamlitRFC
-ML Application predicting species based on features entered 
+ML Application predicting flower species based on features entered by the user.
 
 1. Uses Scikit-Learn's Iris dataset to train a RandomForestClassifier.
 2. Random Forest Classifier model used for prediction.
